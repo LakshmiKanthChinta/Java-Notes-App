@@ -1,0 +1,2 @@
+This program is to persist data.
+Understanding File I/O, exception handling.
